@@ -1,6 +1,6 @@
 # Certificate-Install-Script
 ---
-***The following comes from [Thomas Leister]{https://thomas-leister.de/en/how-to-import-ca-root-certificate/}***
+*The following comes from [Thomas Leister](https://thomas-leister.de/en/how-to-import-ca-root-certificate/)*
 ---
 Before continuing, please ensure libnss3-tools is installed. This allows you to use certutil to install certificates in all browsers. 
 
